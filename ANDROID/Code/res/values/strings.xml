@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name"> AndroidContact </string>
+    <string name="logo"> Ceci est le logo du site </string>
+    <string name="text_remplir"> Veuillez Remplir les informations suivantes : </string>
+    <string name="nom_remplir"> Votre Nom </string>
+    <string name="prenom_remplir"> Votre Prenom </string>
+    <string name="button_valider"> Valider </string>
+    <string name="title_activity_adapter">Adapter</string>
+    <string name="description"> Description ici </string>
+    <string name="adressor"> adresse email </string>
+    <string name="SMS"> SMS </string>
+    <string name="mail_envoie"> Mail </string>
+    <string name="tutux"> Ajouter un Contact </string>
+    <string name="nom_ajd"> Nom Et Prenom du Contact </string>
+    <string name="email_ajd"> Email du Contact </string>
+    <string name="numero_ajd"> Numéro du Contact </string>
+    <string name="valider_ajd"> Valider </string>
+    <string name="backtolist"> Retour </string>
+    <string name="ville"> Ville </string>
+    <string name="numero"> Numero </string>
+</resources>
